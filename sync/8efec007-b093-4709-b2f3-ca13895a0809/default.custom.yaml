@@ -1,0 +1,14 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.9.25.2
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Sun Aug 25 13:26:32 2013"
+  rime_version: 0.9.9
+patch:
+  "ascii_composer/switch_key":
+    Control_L: commit_code
+    Control_R: commit_code
+    Shift_L: noop
+    Shift_R: noop
+  schema_list:
+    - {schema: luna_pinyin_simp}

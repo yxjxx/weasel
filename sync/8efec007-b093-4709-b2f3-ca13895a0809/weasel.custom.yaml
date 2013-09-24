@@ -1,0 +1,8 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.9.25.2
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Sun Aug 25 13:26:53 2013"
+  rime_version: 0.9.9
+patch:
+  "style/color_scheme": lost_temple

@@ -1,0 +1,77 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb.kct
+#@/db_type	userdb
+#@/rime_version	0.9.7
+#@/tick	104
+#@/user_id	8efec007-b093-4709-b2f3-ca13895a0809
+a 	啊	c=3 d=2.63431 t=74
+an zhao 	按照	c=1 d=0.937067 t=74
+ben lai 	本來	c=1 d=1 t=91
+biao dian 	標點	c=1 d=0.88692 t=74
+can shu 	參數	c=1 d=0.927743 t=74
+chi fan 	吃飯	c=1 d=0.909373 t=74
+chuan 	傳	c=0 d=0.0913931 t=74
+chuan jin lai 	傳進來	c=1 d=0.918512 t=74
+ci dian 	詞典	c=1 d=1 t=75
+de 	的	c=9 d=7.59263 t=94
+diao 	掉	c=1 d=0.980199 t=74
+fa 	法	c=1 d=0.965605 t=74
+fang 	放	c=1 d=0.909373 t=74
+fang fa 	方法	c=1 d=0.970446 t=74
+gai ming 	改名	c=1 d=0.900325 t=74
+han shu 	函數	c=1 d=0.88692 t=74
+jian 	鍵	c=1 d=0.878095 t=74
+jin lai 	進來	c=0 d=0.0913931 t=74
+jiu hao 	就好	c=1 d=1 t=74
+ke bu ke yi 	可不可以	c=1 d=1 t=102
+kong jian 	控件	c=1 d=0.937067 t=74
+kong jian 	空間	c=1 d=0.932394 t=74
+kuai jie jian 	快捷鍵	c=1 d=0.97531 t=74
+kuai su 	快速	c=1 d=0.946485 t=74
+li mian 	裏面	c=1 d=0.941765 t=74
+li ru 	例如	c=1 d=0.891366 t=74
+liang hang 	兩行	c=1 d=0.995012 t=74
+mo hu 	模糊	c=0 d=0.0909373 t=74
+mo hu yin 	模糊音	c=1 d=0.913931 t=74
+ni hao 	你好	c=16 d=12.593 t=104
+ni hao si ou 	你好死偶	c=1 d=0.852144 t=74
+ou 	偶	c=0 d=0.0847894 t=74
+pei zhi 	配置	c=2 d=1.956 t=89
+pu tong 	普通	c=1 d=0.985112 t=74
+qie huan 	切換	c=1 d=0.873716 t=74
+qu xiao 	取消	c=1 d=0.970446 t=74
+quan xuan 	全選	c=1 d=0.941765 t=74
+shi 	是	c=1 d=1 t=82
+shi xian 	實現	c=1 d=0.960789 t=74
+shui jiao 	睡覺	c=1 d=0.913931 t=74
+shuo ming 	說明	c=1 d=1 t=78
+si 	死	c=0 d=0.0847894 t=74
+su ming 	宿命	c=1 d=0.951229 t=74
+tian jia 	添加	c=1 d=0.951229 t=74
+wan dou jia 	豌豆莢	c=1 d=1 t=76
+wei 	未	c=1 d=0.955997 t=74
+wei 	爲	c=1 d=0.904837 t=74
+wen jian 	文件	c=2 d=1.956 t=90
+wo 	我	c=2 d=1.956 t=92
+wo men 	我們	c=1 d=1 t=101
+wo shi 	我是	c=4 d=3.17869 t=99
+wo zai 	我在	c=1 d=1 t=97
+xi wen 	西文	c=1 d=0.869358 t=74
+xia 	下	c=2 d=1.97045 t=93
+xia mian 	下面	c=1 d=0.985112 t=74
+xia wu 	下午	c=1 d=0.995012 t=74
+xia zai 	下載	c=2 d=1.84736 t=74
+xiao lang hao 	小狼毫	c=2 d=1.85214 t=77
+xiu gai 	修改	c=1 d=0.860708 t=74
+yang jing 	陽靜	c=3 d=2.46335 t=100
+yi ge 	一個	c=1 d=0.980199 t=74
+yi jing 	已經	c=1 d=0.904837 t=74
+yin 	音	c=0 d=0.0909373 t=74
+yin wei 	因爲	c=1 d=1 t=96
+ying wei 	應爲	c=1 d=1 t=95
+zai 	在	c=2 d=1.84366 t=86
+zhe fen 	這份	c=1 d=1 t=79
+zhong 	中	c=2 d=1.58755 t=74
+zhu shi 	註釋	c=2 d=1.9218 t=74
+zhu zai 	住在	c=1 d=1 t=74
+zi ji 	自己	c=1 d=1 t=84
