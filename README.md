@@ -56,3 +56,24 @@ b 如果輸入法版本較低，將該文件複製到共享文件夾中（Windows中爲「安裝目録/data」，
 
 ---------------------------------------------------------
 
+关于小狼毫的一大软肋就是词库,而增大词库的最好办法还是靠自己长期的积累效果最好了,现在就加入dropbox同步用户词库  
+
+参考网址:  
+
+https://code.google.com/p/rimeime/wiki/UserGuide#%E5%90%8C%E6%AD%A5%E7%94%A8%E6%88%B6%E8%B3%87%E6%96%99  
+https://gist.github.com/lotem/4483504  
+
+
+修改installation.yaml如下:
+
+```
+distribution_code_name: Weasel
+distribution_name: "小狼毫"
+distribution_version: 0.9.26.1
+install_time: "Sun Oct 13 15:44:09 2013"
+installation_id: "yxjxx-win7"
+rime_version: 1.0
+sync_dir: 'C:\Dropbox\RimeSync'
+```
+
+然后在图形界面点击`用户资料同步`即可(Linux 用`rime_dict_manager -s`同步)
