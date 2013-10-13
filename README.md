@@ -46,7 +46,11 @@
     作用是:你自己看注释吧,懒得写了
     
 5. 词库luna_pinyin.dict.yaml
-覆盖C:\Program Files (x86)\Rime\weasel-0.9.25\data下同名文件  
+参考网址：　https://code.google.com/p/rime-aca/downloads/detail?name=luna_pinyin.dict.yaml
+
+a 如果輸入法已升級到最新版本（rime_version>=0.9.9），將該文件複製到用戶文件夾中（Windows：%AppData%\Rime，Mac：~/Library/Rime，Linux：~/.config/ibus/rime/）。
+b 如果輸入法版本較低，將該文件複製到共享文件夾中（Windows中爲「安裝目録/data」，Mac中爲/Library/Input Methods/Squirrel.app/Contents/SharedSupport/，Linux中爲 /usr/share/rime-data/）中，覆蓋同名文件。
+  
 重新部署,测试:  
 ![weasle](http://ww4.sinaimg.cn/large/81d2b157jw1e7zjmlpjt5j208605pmx9.jpg "")
 
