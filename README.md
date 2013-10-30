@@ -23,11 +23,11 @@
 1. 安装小狼毫
 2. 以zip包的形式下载我的所有配置文件
 3. 将其中所有`.yaml`文件,拷贝到Rime文件夹下(默认路径为:`C:\Users\username\AppData\Roaming\Rime`)
-4. 词库luna_pinyin.dict.yaml 覆盖C:\Program Files (x86)\Rime\weasel-0.9.25\data下同名文件
-4. 重新部署(默认路径为:`C:\Users\username\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\小狼毫輸入法\【小狼毫】重新部署`),如你所见,你也可以在开始菜单中找到这一项
-5. 切换到小狼毫输入法,按`F4`(或`<Ctrl>+~`)切换到`明月拼音-简化字`或`明月拼音`
-6. 现在已经默认中文状态下使用英文标点了,切换回全角方式是按`F4`,选择`半角->全角`
-7. ok,enjoy it!
+4. 词库luna_pinyin.dict.yaml　移动到用户文件夹(旧版用户有所不同详见说明第五点)　
+5. 重新部署(默认路径为:`C:\Users\username\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\小狼毫輸入法\【小狼毫】重新部署`),如你所见,你也可以在开始菜单中找到这一项　　
+6. 切换到小狼毫输入法,按`F4`(或`<Ctrl>+~`)切换到`明月拼音-简化字`或`明月拼音`
+7. 现在已经默认中文状态下使用英文标点了,切换回全角方式是按`F4`,选择`半角->全角`
+8. ok,enjoy it!
 
 -----------------------------------------
 
@@ -40,7 +40,7 @@
     作用是:实现`明月拼音-简化字`的模糊音,文件中的注释具体说明了,实现了那些模糊,你也可以通过自己总结语法,自定义一些模糊
 
 3. alternative.yaml按照luna_pinyin_simp.custom.yaml里面注释的说法,取消注释掉patch下面的两行就好
-    作用是: 实现中文状态下也使用英文标点以及`'[' 和 ']'`翻页,alternaive.yaml中的注释你有详细的说明
+    作用是: 实现中文状态下也使用英文标点以及`'[' 和 ']'`翻页,alternaive.yaml中的注释里有详细的说明
     
 4. 下载weasel.custom.yaml,这里是专用于小狼毫的一些配置文件.
     作用是:你自己看注释吧,懒得写了
