@@ -1,18 +1,11 @@
 customization:
   distribution_code_name: Weasel
-  distribution_version: 0.9.25.2
+  distribution_version: 0.9.28.0
   generator: "Weasel::UIStyleSettings"
-  modified_time: "Sun Aug 25 14:54:34 2013"
-  rime_version: 0.9.9
+  modified_time: "Fri Dec 13 10:44:04 2013"
+  rime_version: 1.0
 patch:
-  "style/color_scheme": lost_temple
-  #"style/font_face": "YaHei Consolas Hybrid" #字体名称,从记事本等处的系统字体对话框里能看到
-  #"style/font_point": 14 #字体大小,只认数字不认五号,小五之类
-  "style/display_tray_icon": true #显示托盘
-  #"style/horizontal": true #候选词横排
-
-  #############在特定程序中关闭中文输入
-  app_options/gvim.exe:  # 程序名字全用小寫字母
+  "app_options/gvim.exe":
     ascii_mode: true
-  #app_options/cmd.exe:
-  #  ascii_mode: true
+  "style/color_scheme": ps4
+  "style/display_tray_icon": true
