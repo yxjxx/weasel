@@ -31,7 +31,7 @@ patch:
 
     #- derive/^ren/yin/                 # ren => yin, reng => ying
     #- derive/^r/y/                     # r => y
-  
+
     # 下面 hu <=> f 這組寫法複雜一些，分情況討論
     - derive/^hu$/fu/                  # hu => fu
     - derive/^hong$/feng/              # hong => feng
@@ -115,7 +115,5 @@ patch:
 #patch:
   recognizer/patterns/reverse_lookup:
   'punctuator/half_shape/`':
-    - yangjing201111335@gmail.com
-    - yangjing201111335@163.com
     - yxjxx
-    - 781270367@qq.com
+    - mynameisyxjxx@gmail.com

@@ -111,7 +111,7 @@ punctuator:
 
 key_binder:
   bindings:
-    # commonly used paging keys
+    # commonly used paging keys,'['-->pagedown ']'-->pageup
     - { when: composing, accept: ISO_Left_Tab, send: Page_Up }
     - { when: composing, accept: Shift+Tab, send: Page_Up }
     - { when: composing, accept: Tab, send: Page_Down }
@@ -119,5 +119,5 @@ key_binder:
     - { when: has_menu, accept: equal, send: Page_Down }
     - { when: paging, accept: comma, send: Page_Up }
     - { when: has_menu, accept: period, send: Page_Down }
-    - { when: paging, accept: bracketleft, send: Page_Up }
-    - { when: has_menu, accept: bracketright, send: Page_Down }
+    - { when: paging, accept: bracketright, send: Page_Up }
+    - { when: has_menu, accept: bracketleft, send: Page_Down }
