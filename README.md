@@ -4,7 +4,7 @@
 
 ##说明：
 这份配置文件是我自己的在Windows下weasle的配置文件。  
-因为我本身在Linux下用的也是Rime,不过升级到Mint16之后出现各种问题,而且ibus也没有fcitx好用,现在改用fcitx-sunpingyin和fcitx-sougoupinyin了(fcitx在Mint16下不能输入中文,不知道是什么原因).而且我惊喜的发现在ibus-rime下要修改配置文件才能实现的大部分功能,fcitx可以在图形界面配置了.
+因为我本身在Linux下用的也是Rime,不过升级到Mint16之后出现各种问题,而且ibus也没有fcitx好用,现在改用fcitx-sunpingyin和fcitx-sougoupinyin了(fcitx-rime在Mint16下不能输入中文,不知道是什么原因).而且我惊喜的发现在ibus-rime下要修改配置文件才能实现的大部分功能,fcitx可以在图形界面配置了.
 
 -------------------------------
   
@@ -22,7 +22,7 @@
 
 1. 安装[小狼毫](https://code.google.com/p/rimeime/wiki/Downloads)
 2. 以zip包的形式下载[我的所有配置文件](https://github.com/yxjxx/weasel)
-3. 将其中所有`.yaml`文件,拷贝到Rime文件夹下(默认路径为:`C:\Users\<your_username>\AppData\Roaming\Rime` **Notice:replace <your_username> with your real username**)
+3. 将其中所有`.yaml`文件,拷贝到Rime文件夹下(默认路径为:`C:\Users\your_username\AppData\Roaming\Rime` **Notice:replace your_username with your real username**)
 5. 重新部署(默认路径为:`C:\Users\username\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\小狼毫輸入法\【小狼毫】重新部署`),如你所见,你也可以在开始菜单中找到这一项　　
 6. 切换到小狼毫输入法,按`F4`(或`<Ctrl>+~`)切换到`明月拼音-简化字`
 7. 现在已经默认中文状态下使用英文标点了,切换回全角方式是按`F4`,选择`半角->全角`
@@ -46,8 +46,10 @@
 重新部署,测试:  
 ![weasle](http://ww4.sinaimg.cn/large/81d2b157jw1e7zjmlpjt5j208605pmx9.jpg "")
 
-6. 自定义快捷短语.![自定义](http://ww1.sinaimg.cn/large/81d2b157jw1eegnzlfgmqj20e7068aan.jpg "")
-7. 自定义翻页键.![翻页](http://ww1.sinaimg.cn/large/81d2b157jw1eego55or8uj20le094mzb.jpg "")
+6. 自定义快捷短语.
+![自定义](http://ww1.sinaimg.cn/large/81d2b157jw1eegnzlfgmqj20e7068aan.jpg "")
+7. 自定义翻页键.  
+![翻页](http://ww1.sinaimg.cn/large/81d2b157jw1eego55or8uj20le094mzb.jpg "")
 8. 关于小狼毫的一大软肋就是词库,而增大词库的最好办法还是靠自己长期的积累效果最好了,现在就加入dropbox同步用户词库  
 参考网址:  
 https://code.google.com/p/rimeime/wiki/UserGuide#%E5%90%8C%E6%AD%A5%E7%94%A8%E6%88%B6%E8%B3%87%E6%96%99  
